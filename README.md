@@ -1,4 +1,4 @@
-# **For make dom to html pleasse use this command**
+# **For make dom to pdf pleasse use this command**
 
 `npm i jspdf@1.5.3`
 
