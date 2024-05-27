@@ -1,6 +1,6 @@
 # **For make dom to pdf pleasse use this command**
 
-`npm i jspdf@1.5.3`
+`npm i jspdf@1.5.30`
 
 You can choose another version. However, I have encountered a lot of complexity when it comes to measuring to PDF the DOM in another version. So, I am using this specific version.
 
